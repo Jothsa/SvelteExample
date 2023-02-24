@@ -1256,11 +1256,6 @@ onetime@^2.0.0:
   dependencies:
     mimic-fn "^1.0.0"
 
-open-props@^1.5.5:
-  version "1.5.5"
-  resolved "https://registry.yarnpkg.com/open-props/-/open-props-1.5.5.tgz#74bf087ea85b26f93cb15da0e49966172c4d836f"
-  integrity sha512-MiNn+fZFcdEn8OcgHMqcCa3m41XiIL5yiPW/j4+ozPrk7SGEvlQsr5J2qE2Jp/sHSOpuVapcCBCFx11fE5pZUA==
-
 os-tmpdir@~1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/os-tmpdir/-/os-tmpdir-1.0.2.tgz#bbe67406c79aa85c5cfec766fe5734555dfa1274"
@@ -1587,13 +1582,6 @@ postcss-initial@^4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/postcss-initial/-/postcss-initial-4.0.1.tgz#529f735f72c5724a0fb30527df6fb7ac54d7de42"
   integrity sha512-0ueD7rPqX8Pn1xJIjay0AZeIuDoF+V+VvMt/uOnn+4ezUKhZM/NokDeP6DwMNyIoYByuN/94IQnt5FEkaN59xQ==
-
-postcss-jit-props@^1.0.11:
-  version "1.0.11"
-  resolved "https://registry.yarnpkg.com/postcss-jit-props/-/postcss-jit-props-1.0.11.tgz#eba98fede1424f87f0a4e6389becf9927494ce69"
-  integrity sha512-h2390Z7HkjlvyaaIm6kk3jPzGNQcDoU9JPo4/O6c2l0kzSU2bEhpFvgcQLoMbCIErRr17dHcWRPlEp/tWiTSrw==
-  dependencies:
-    tiny-glob "^0.2.9"
 
 postcss-lab-function@^1.1.0:
   version "1.1.0"
