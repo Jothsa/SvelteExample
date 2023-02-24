@@ -1,6 +1,4 @@
-const jit = require('postcss-jit-props');
 const presetEnv = require('postcss-preset-env');
-const openProps = require('open-props');
 
 const config = {
   plugins: [
