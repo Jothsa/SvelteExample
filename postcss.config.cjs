@@ -1,12 +1,11 @@
-const presetEnv = require('postcss-preset-env');
+const presetEnv = require("postcss-preset-env");
 
 const config = {
   plugins: [
-    jit(openProps),
     presetEnv({
       stage: 2,
       features: {
-        'nesting-rules': true,
+        "nesting-rules": true,
       },
     }),
   ],
